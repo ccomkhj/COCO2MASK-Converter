@@ -1,3 +1,4 @@
-input
-output
-!.gitignore
+*.png
+*.jpg
+*.jpeg
+*.json
